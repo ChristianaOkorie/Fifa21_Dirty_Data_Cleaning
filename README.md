@@ -6,3 +6,5 @@
    
 ## About Data
    ### The data set was gotten from Kaggle and it has 18,979 rows and 77 columns. It contains data of players Id, photoUrl, playerUrl, name, rating, their age, their nationality, the position that they play, their potentials for growth in game and so on.
+## Data Claning Process
+   ### I used the Microsoft Power BI for this data cleaning, First i imported the data as a CSV file and hit the transform button which brings up the Power Query. All unwanted filles were deleted, i checked for duplicated column and empty column and had them deleted. I renamed the columns that had abbreviated names.
